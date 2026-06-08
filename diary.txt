@@ -1,2 +1,0 @@
-"Day 1: I am learning Git commands."
-"VS Code and Terminal work together."

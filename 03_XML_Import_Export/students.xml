@@ -1,0 +1,23 @@
+<students>
+    <student>
+        <id>01</id>
+        <name>Krinshi</name>
+        <course> Computer Course</course>
+        <city>Porbandar</city>
+    </student>
+
+    <student>
+        <id>02</id>
+        <name>Piya</name>
+        <course> ComputerCourse</course>
+        <city>Surat</city>
+    </student>
+
+    <student>
+        <id>03</id>
+        <name>Delina</name>
+        <course> Computer Course</course>
+        <city>Ahmedabad</city>
+    </student>
+
+</students>
