@@ -7,3 +7,13 @@ Enrollment No: 246270307061. <br>
 Semester: 5th.<br>
 College Name: Govt. Polytechnic Porbandar.<br>
 Subject: Web Development & API Integration.<br>
+
+<br>
+Practical List: <br>
+
+1. AJAX Auto Suggest<br>
+2. Regular Expression Validation<br>
+3. XML Import Export<br>
+4. PDF Creation using FPDF<br>
+5. QR Code Integration<br>
+
