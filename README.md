@@ -16,4 +16,6 @@ Practical List: <br>
 3. XML Import Export<br>
 4. PDF Creation using FPDF<br>
 5. QR Code Integration<br>
+6.Excel import-Export<br>
+7.Google Captcha<br>
 
